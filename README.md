@@ -65,7 +65,7 @@ Follow these steps to set up and run the Crest app on your local machine:
 1. **Clone the Repository**  
    - Open a terminal and run the following command to clone the repository:  
      ```bash  
-     git clone https://github.com/yourusername/crest.git  
+     git clone https://github.com/CodenWizFreak/Crest.git  
      ```  
 
 2. **Open the Project in Android Studio**  
