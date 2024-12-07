@@ -17,8 +17,8 @@
             android:exported="false" />
 
         <meta-data
-            android:name="com.google.android.gms.ads.APPLICATION_ID"
-            android:value="ca-app-pub-2498436052807398~7697603839" />
+            android:name="com.google.android.gms.asd.APPLICATION_ID"
+            android:value="ca-app-pub-2498436052807398~7967603839" />
 
         <activity
             android:name=".SignupActivity"
