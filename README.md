@@ -1,9 +1,9 @@
-# **Crest - Connect Through Music**  
+# **Crest - Connect Through Music🎧🎵**  
 *Crest is a music streaming app that not only lets you enjoy your favorite songs but also connects you with like-minded individuals who share your unique music taste. Explore genres, like songs, and build meaningful connections through music.*
 
 ---
 
-## **Features**  
+## **Features✨**  
 
 ### **Authentication**  
 - Secure **Signup/Login** functionality using email and password.  
@@ -12,7 +12,8 @@
 
 ### **Home Page**  
 - Explore songs across various genres: English, Hindi, Classical, Rap, Podcasts, and more.  
-- Curated collections for every mood and interest.  
+- Curated collections for every mood and interest.
+- Unobtrusive banner ads while using the app (ads can be removed with a premium subscription).    
 
 ### **Engage with Music**  
 - **Like Songs**: Express your love for a track by liking it.  
@@ -25,7 +26,7 @@
 
 ---
 
-## **Tech Stack**  
+## **Tech Stack💻**  
 
 ### **Frontend**  
 - **Language**: Kotlin, XML  
@@ -37,14 +38,14 @@
 
 ---
 
-## **Getting Started**  
+## **Getting Started🚀**  
 
 ### **Prerequisites**  
 - Android Studio installed on your system.  
 - Java JDK and Android SDK configured.  
 - A Firebase project set up for Authentication and Database.  
 
-## **Installation**  
+## **Installation⚙️**  
 
 Follow these steps to set up and run the Crest app on your local machine:  
 
@@ -89,7 +90,7 @@ Follow these steps to set up and run the Crest app on your local machine:
 Your app should now be running successfully on your Android device or emulator!
 
 
-## **Usage**  
+## **Usage📚**  
 
 1. **Signup/Login**:  
    - Create an account using your email and password or log in with existing credentials.  
@@ -112,7 +113,7 @@ Your app should now be running successfully on your Android device or emulator!
    - Use the Logout option to securely sign out of your account anytime.  
 
 
-## **Screenshots**  
+## **Screenshots📱**  
 
 Below are some screenshots showcasing the app interface:  
 
@@ -133,7 +134,7 @@ Below are some screenshots showcasing the app interface:
 ![Premium Subscription](path/to/premium-screenshot.png)  
 
 
-## **Contributing**  
+## **Contributing🤝**  
 
 We welcome contributions to make Crest even better! Follow the steps below to contribute:  
 
@@ -183,7 +184,7 @@ We welcome contributions to make Crest even better! Follow the steps below to co
 Thank you for contributing to Crest! Your efforts help us improve and enhance the app for everyone.  
 
 
-## **License**  
+## **License📃**  
 
 This project is licensed under the [MIT License](LICENSE).  
 
@@ -191,13 +192,13 @@ By contributing to this project, you agree that your contributions will be licen
 
 ---
 
-## **Contact**  
+## **Contact📞**  
 
 For any queries, feedback, or support, feel free to reach out:  
 
-- **Email**: dasguptaananyo28@gmail.com  
-- **GitHub**: [CodenWizFreak](https://github.com/CodenWizFreak)  
-- **LinkedIn**: [Ananyo Dasgupta](https://www.linkedin.com/in/ananyo-dasgupta-a4a82b292/) 
+- 📧**Email**: dasguptaananyo28@gmail.com  
+- 🧑‍💻**GitHub**: [CodenWizFreak](https://github.com/CodenWizFreak)  
+- 💼**LinkedIn**: [Ananyo Dasgupta](https://www.linkedin.com/in/ananyo-dasgupta-a4a82b292/) 
 
 We’d love to hear from you!  
 
