@@ -28,7 +28,7 @@
 ## **Tech Stack**  
 
 ### **Frontend**  
-- **Language**: Kotlin  
+- **Language**: Kotlin, XML  
 - **IDE**: Android Studio  
 
 ### **Backend**  
@@ -86,4 +86,118 @@ Follow these steps to set up and run the Crest app on your local machine:
 
 ---
 
-Your app should now be running successfully on your Android device or emulator!  
+Your app should now be running successfully on your Android device or emulator!
+
+
+## **Usage**  
+
+1. **Signup/Login**:  
+   - Create an account using your email and password or log in with existing credentials.  
+   - Use the "Forgot Password" feature if needed to recover your account.  
+
+2. **Explore Songs**:  
+   - Browse through genres such as English, Hindi, Classical, Rap, Podcasts, and more.  
+   - Check out curated collections of songs for different moods and preferences.  
+
+3. **Engage**:  
+   - Like songs to express your interest.  
+   - View the number of other users who have liked a song.  
+   - Click on user profiles from the liked list and send them connection requests to expand your music network.  
+
+4. **Premium Subscription**:  
+   - Upgrade to premium by scanning the QR code available in the app.  
+   - Unlock enhanced features with a subscription starting at just ₹49.  
+
+5. **Logout**:  
+   - Use the Logout option to securely sign out of your account anytime.  
+
+
+## **Screenshots**  
+
+Below are some screenshots showcasing the app interface:  
+
+### **1. Signup/Login Screen**  
+- A simple and intuitive interface for creating an account or logging in.  
+![Signup/Login Screen](path/to/signup-login-screenshot.png)  
+
+### **2. Home Page with Genres**  
+- Explore a variety of music genres and curated collections.  
+![Home Page](path/to/home-page-screenshot.png)  
+
+### **3. Song Engagement and Connections**  
+- Like songs and connect with users who share similar music tastes.  
+![Connections Screen](path/to/connections-screenshot.png)  
+
+### **4. Premium Subscription**  
+- Seamless QR code scanning and premium subscription options.  
+![Premium Subscription](path/to/premium-screenshot.png)  
+
+
+## **Contributing**  
+
+We welcome contributions to make Crest even better! Follow the steps below to contribute:  
+
+### **Steps to Contribute**  
+1. **Fork the Repository**:  
+   - Click the **Fork** button at the top of this repository to create a copy in your GitHub account.  
+
+2. **Clone the Repository**:  
+   - Clone your forked repository to your local machine:  
+     ```bash  
+     git clone https://github.com/yourusername/crest.git  
+     ```  
+
+3. **Create a Feature Branch**:  
+   - Create a new branch for your feature or bug fix:  
+     ```bash  
+     git checkout -b feature/your-feature-name  
+     ```  
+
+4. **Make Changes**:  
+   - Implement your changes in the codebase.  
+
+5. **Commit Your Changes**:  
+   - Write a clear and concise commit message:  
+     ```bash  
+     git commit -m "Add: Description of your feature or fix"  
+     ```  
+
+6. **Push to Your Fork**:  
+   - Push your branch to your forked repository:  
+     ```bash  
+     git push origin feature/your-feature-name  
+     ```  
+
+7. **Submit a Pull Request**:  
+   - Navigate to the original repository and create a pull request from your branch.  
+   - Provide a detailed description of your changes and why they should be merged.  
+
+### **Guidelines**  
+- Ensure your code follows the project’s style and conventions.  
+- Test your changes thoroughly before submitting.  
+- Provide clear and concise commit messages.  
+- Keep pull requests focused on a single feature or bug fix.  
+
+---
+
+Thank you for contributing to Crest! Your efforts help us improve and enhance the app for everyone.  
+
+
+## **License**  
+
+This project is licensed under the [MIT License](LICENSE).  
+
+By contributing to this project, you agree that your contributions will be licensed under the MIT License.  
+
+---
+
+## **Contact**  
+
+For any queries, feedback, or support, feel free to reach out:  
+
+- **Email**: dasguptaananyo28@gmail.com  
+- **GitHub**: [CodenWizFreak](https://github.com/CodenWizFreak)  
+- **LinkedIn**: [Ananyo Dasgupta](https://www.linkedin.com/in/ananyo-dasgupta-a4a82b292/) 
+
+We’d love to hear from you!  
+
