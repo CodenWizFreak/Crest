@@ -1,6 +1,10 @@
 # **Crest - Connect Through Music🎧🎵**  
 *Crest is a music streaming app that not only lets you enjoy your favorite songs but also connects you with like-minded individuals who share your unique music taste. Explore genres, like songs, and build meaningful connections through music.*
 
+
+
+![logomain](https://github.com/user-attachments/assets/ad13fcaa-8100-41a9-ac21-a60f9a09b5dc)
+
 ---
 
 ## **Features✨**  
@@ -118,20 +122,28 @@ Your app should now be running successfully on your Android device or emulator!
 Below are some screenshots showcasing the app interface:  
 
 ### **1. Signup/Login Screen**  
-- A simple and intuitive interface for creating an account or logging in.  
-![Signup/Login Screen](path/to/signup-login-screenshot.png)  
+- A simple and intuitive interface for creating an account or logging in.
+  
+![Screenshot 2024-12-08 001024](https://github.com/user-attachments/assets/e4e3be5a-bad3-4e28-b7cd-f487f9108f82)
+
 
 ### **2. Home Page with Genres**  
 - Explore a variety of music genres and curated collections.  
-![Home Page](path/to/home-page-screenshot.png)  
+
+ 
+![Screenshot 2024-12-08 000847](https://github.com/user-attachments/assets/c4e22078-8634-457b-b18c-4a1cfd6978e6)
 
 ### **3. Song Engagement and Connections**  
 - Like songs and connect with users who share similar music tastes.  
-![Connections Screen](path/to/connections-screenshot.png)  
+
+![Screenshot 2024-12-08 000924](https://github.com/user-attachments/assets/e93b1ebd-26e7-4f2f-89ad-458166a9aace)
+
 
 ### **4. Premium Subscription**  
 - Seamless QR code scanning and premium subscription options.  
-![Premium Subscription](path/to/premium-screenshot.png)  
+
+
+![Screenshot 2024-12-08 001001](https://github.com/user-attachments/assets/eb2d34db-49f4-4e87-8136-60909c177662)
 
 
 ## **Contributing🤝**  
