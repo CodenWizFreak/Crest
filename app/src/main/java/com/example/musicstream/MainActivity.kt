@@ -42,7 +42,6 @@ import com.google.zxing.qrcode.QRCodeWriter
 class MainActivity : AppCompatActivity() {
     lateinit var binding: ActivityMainBinding
     lateinit var categoryAdapter: CategoryAdapter
-    //private var mInterstitialAd: InterstitialAd? = null
     lateinit var mAdView : AdView
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -72,19 +71,6 @@ class MainActivity : AppCompatActivity() {
         }
     }
 
-    /*fun loadAd(){
-        val adRequest = AdRequest.Builder().build()
-
-        InterstitialAd.load(this,"ca-app-pub-3940256099942544/1033173712", adRequest, object : InterstitialAdLoadCallback() {
-            override fun onAdFailedToLoad(adError: LoadAdError) {
-                mInterstitialAd = null
-            }
-
-            override fun onAdLoaded(interstitialAd: InterstitialAd) {
-                mInterstitialAd = interstitialAd
-            }
-        })
-    }*/
 
     fun showPopupMenu() {
         val popupMenu = PopupMenu(this, binding.optionBtn)
@@ -101,7 +87,7 @@ class MainActivity : AppCompatActivity() {
 
                 R.id.premiumButton -> {
                     // Show QR Code Dialog showQRCodeDialog("upi://pay?pa=your_upi_id@bank&pn=Your Name&am=100&cu=INR")
-                    val upiID = "souvikkisku08@oksbi"
+                    val upiID = //your upi id in quotes
                     val amount = "49"
                     showQRCodeDialog("upi://pay?pa=$upiID&pn=Crest&am=$amount&cu=INR")
 
