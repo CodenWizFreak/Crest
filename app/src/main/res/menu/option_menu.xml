@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Logout"
+        android:id="@+id/logout"/>
+    <item
+        android:id="@+id/premiumButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Go Premium"
+        android:layout_marginTop="16dp"
+        android:layout_gravity="center"
+        android:backgroundTint="#9c55ed"
+        android:textColor="#FFFFFF"
+        android:title=" Go Premium" />
+
+</menu>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Music Stream</string>
+    <string name="forgot_password"><u>Forgot Password</u></string>
+    <string name="title_activity_chat">ChatActivity</string>
+</resources>
