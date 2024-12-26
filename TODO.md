@@ -40,3 +40,13 @@ This project involves addressing bugs, upgrading features, and adding new functi
 - **User Interface**: Design and integrate the search UI across all platforms.
 
 ---
+## 6. **Add Music Features and Customization Options**
+
+- **Offline Music**: Implement song downloading and offline playback functionality.
+- **Song Lyrics**: Include song lyrics for all available tracks.
+- **Light and Dark Mode**: Add a toggle to switch between light and dark modes.
+- **Additional Controls**: Provide more control over the music experience, such as shuffle, queue, add to playlist, and track details.
+- **Music Quizzes & Games**: Introduce interactive music quizzes and games to engage users.
+- **Notifications**: Implement a notification system to keep users informed about new songs, features, and updates.
+
+---
