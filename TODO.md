@@ -28,5 +28,10 @@ This project involves addressing bugs, upgrading features, and adding new functi
 - **Live Music Feed**: Implement live music feed rooms (similar to Discord) for real-time music discussions.
 
 ---
+## 4. **Implement Personalized Music Experience with Machine Learning**
 
+- **Recommendation Engine**: Develop an ML-based recommendation engine that suggests songs based on the user's most played songs.
+- **Playlist Creation**: Allow users to create their own playlists, both individually and collaboratively (premium feature).
+
+---
 
