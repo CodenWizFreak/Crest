@@ -34,4 +34,9 @@ This project involves addressing bugs, upgrading features, and adding new functi
 - **Playlist Creation**: Allow users to create their own playlists, both individually and collaboratively (premium feature).
 
 ---
+## 5. **Search and Discovery**
 
+- **Search Functionality**: Implement a search feature to allow users to search by song name, artist name, album name, or playlist name.
+- **User Interface**: Design and integrate the search UI across all platforms.
+
+---
