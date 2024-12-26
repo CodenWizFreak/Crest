@@ -20,6 +20,13 @@ This project involves addressing bugs, upgrading features, and adding new functi
 - **Auth0 Integration**: Integrate Auth0 for user login via Google or Facebook.
 
 ---
+## 3. **Enhance User Interaction and Communication Features**
 
+- **User Interaction**: Upon clicking a username in the liked features list, provide options to add a connection or report the user. 
+- **Chat Feature**: Enable the chat feature once the connection request is accepted (premium feature).
+- **Music Sharing in Chat**: Allow users to share music in the chat feature.
+- **Live Music Feed**: Implement live music feed rooms (similar to Discord) for real-time music discussions.
+
+---
 
 
