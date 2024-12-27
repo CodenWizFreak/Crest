@@ -18,4 +18,7 @@ These tasks are resource-intensive but will significantly improve the app’s fu
    - **Impact**: High  
    - **Effort**: High  
    - Key for premium users, requiring backend logic and user state management.
-
+4. **Enable Chat Feature Upon Connection Acceptance (Premium Feature)**  
+   - **Impact**: High  
+   - **Effort**: High  
+   - A major enhancement that requires a messaging backend and UI adjustments.
