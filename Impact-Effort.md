@@ -103,3 +103,9 @@ These tasks require minimal effort but provide limited benefits in terms of user
    - Keeps users informed but is relatively simple to implement and doesn’t significantly impact the app’s core success.
 
 ---
+
+
+- **High Effort, High Impact**: Tasks that require significant resources but will have a large effect on the app's user experience and success.
+- **High Effort, Low Impact**: Tasks that take a lot of effort but don’t deliver substantial value in relation to the resources spent.
+- **Low Effort, High Impact**: Tasks that are quick to implement but provide significant benefits to user experience, monetization, or engagement.
+- **Low Effort, Low Impact**: Tasks that are easy to implement but have limited value in terms of user engagement or functionality.
