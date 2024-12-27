@@ -36,3 +36,10 @@ These tasks are resource-intensive but will significantly improve the app’s fu
    - Critical for user convenience, requiring offline storage management and lyric sourcing.
 
 ---
+## **High Effort, Low Impact**
+These tasks are resource-intensive but don't offer a major impact compared to the effort involved.
+
+1. **Implement User Profile Creation (Personal Details & Picture)**  
+   - **Impact**: Medium  
+   - **Effort**: Medium  
+   - Enhances personalization but requires higher effort relative to its impact.
