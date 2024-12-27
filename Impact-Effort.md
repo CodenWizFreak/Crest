@@ -64,3 +64,7 @@ These tasks have minimal implementation effort but significantly improve the app
    - **Impact**: High  
    - **Effort**: Medium  
    - Enables users to share music, which enhances social interactions with minimal effort.
+4. **Allow Playlist Creation (Individual and Collaborative, Premium Feature)**  
+   - **Impact**: High  
+   - **Effort**: Medium  
+   - Playlists are key for user retention and engagement, and the effort required is moderate.
