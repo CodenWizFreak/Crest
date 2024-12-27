@@ -93,3 +93,7 @@ These tasks require minimal effort but provide limited benefits in terms of user
    - **Impact**: Medium  
    - **Effort**: Low  
    - Enhances user customization with relatively low effort.
+4. **Music Quizzes & Games**  
+   - **Impact**: Low  
+   - **Effort**: Medium  
+   - Engaging but not a core feature, providing a fun experience with moderate effort.
