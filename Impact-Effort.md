@@ -30,4 +30,9 @@ These tasks are resource-intensive but will significantly improve the app’s fu
    - **Impact**: High  
    - **Effort**: High  
    - Personalization through ML boosts engagement, but the development process is resource-intensive.
+7. **Implement Offline Music Playback & Song Lyrics**  
+   - **Impact**: High  
+   - **Effort**: High  
+   - Critical for user convenience, requiring offline storage management and lyric sourcing.
 
+---
