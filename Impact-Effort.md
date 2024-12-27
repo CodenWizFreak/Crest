@@ -26,3 +26,8 @@ These tasks are resource-intensive but will significantly improve the app’s fu
    - **Impact**: High  
    - **Effort**: High  
    - Adds real-time interaction and community features, requiring real-time infrastructure.
+6. **Develop ML-Based Recommendation Engine (Based on Most Played Songs)**  
+   - **Impact**: High  
+   - **Effort**: High  
+   - Personalization through ML boosts engagement, but the development process is resource-intensive.
+
