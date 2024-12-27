@@ -43,3 +43,9 @@ These tasks are resource-intensive but don't offer a major impact compared to th
    - **Impact**: Medium  
    - **Effort**: Medium  
    - Enhances personalization but requires higher effort relative to its impact.
+2. **Integrate Auth0 for Social Logins (Google, Facebook)**  
+   - **Impact**: Medium  
+   - **Effort**: Medium  
+   - Simplifies login but doesn’t provide immediate revenue impact.
+
+---
