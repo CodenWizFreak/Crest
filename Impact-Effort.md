@@ -68,3 +68,7 @@ These tasks have minimal implementation effort but significantly improve the app
    - **Impact**: High  
    - **Effort**: Medium  
    - Playlists are key for user retention and engagement, and the effort required is moderate.
+5. **Implement Search Functionality (Song, Artist, Album, Playlist)**  
+   - **Impact**: High  
+   - **Effort**: Medium  
+   - Essential for content discovery, though it’s straightforward to implement.
