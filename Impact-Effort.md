@@ -49,3 +49,10 @@ These tasks are resource-intensive but don't offer a major impact compared to th
    - Simplifies login but doesn’t provide immediate revenue impact.
 
 ---
+## **Low Effort, High Impact**
+These tasks have minimal implementation effort but significantly improve the app’s functionality or user experience.
+
+1. **Fix Banner Ad Issue**  
+   - **Impact**: High  
+   - **Effort**: Medium  
+   - Fixing this issue boosts ad revenue and user experience with relatively low effort.
