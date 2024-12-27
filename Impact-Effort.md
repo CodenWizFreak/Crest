@@ -10,6 +10,9 @@ These tasks are resource-intensive but will significantly improve the app’s fu
    - **Impact**: High  
    - **Effort**: High  
    - Critical for user experience, requiring complex changes to the music playback system.
-
+2. **Integrate Payment Window with Multiple Plans (Monthly, Yearly, etc.)**  
+   - **Impact**: High  
+   - **Effort**: High  
+   - Essential for monetization, involving secure payment gateway integration and UI/UX work.
 
 
