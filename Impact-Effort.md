@@ -56,3 +56,7 @@ These tasks have minimal implementation effort but significantly improve the app
    - **Impact**: High  
    - **Effort**: Medium  
    - Fixing this issue boosts ad revenue and user experience with relatively low effort.
+2. **Implement Banner Ad Replacement (Full-Page Interstitial Ads)**  
+   - **Impact**: High  
+   - **Effort**: Medium  
+   - Enhances monetization through a simple change to ad placement.
