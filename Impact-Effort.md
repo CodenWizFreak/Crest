@@ -89,3 +89,7 @@ These tasks require minimal effort but provide limited benefits in terms of user
    - **Impact**: Medium  
    - **Effort**: Low  
    - Provides a simple UX improvement with minimal impact on core features.
+3. **Additional Controls for Music (Shuffle, Queue, Track Details)**  
+   - **Impact**: Medium  
+   - **Effort**: Low  
+   - Enhances user customization with relatively low effort.
