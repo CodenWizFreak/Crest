@@ -78,3 +78,10 @@ These tasks have minimal implementation effort but significantly improve the app
    - Improving search usability across platforms has moderate effort but is important for user experience.
 
 ---
+## **Low Effort, Low Impact**
+These tasks require minimal effort but provide limited benefits in terms of user experience or engagement.
+
+1. **Enable User Interaction on Liked Features List (Add Connection or Report)**  
+   - **Impact**: Medium  
+   - **Effort**: Low  
+   - Adds basic interaction options but doesn't significantly improve the app.
