@@ -97,3 +97,9 @@ These tasks require minimal effort but provide limited benefits in terms of user
    - **Impact**: Low  
    - **Effort**: Medium  
    - Engaging but not a core feature, providing a fun experience with moderate effort.
+5. **Notifications System**  
+   - **Impact**: Medium  
+   - **Effort**: Low  
+   - Keeps users informed but is relatively simple to implement and doesn’t significantly impact the app’s core success.
+
+---
