@@ -14,5 +14,8 @@ These tasks are resource-intensive but will significantly improve the app’s fu
    - **Impact**: High  
    - **Effort**: High  
    - Essential for monetization, involving secure payment gateway integration and UI/UX work.
-
+3. **Implement Post-Payment Changes (Ads Disabled, Chat Enabled)**  
+   - **Impact**: High  
+   - **Effort**: High  
+   - Key for premium users, requiring backend logic and user state management.
 
