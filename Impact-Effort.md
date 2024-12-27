@@ -85,3 +85,7 @@ These tasks require minimal effort but provide limited benefits in terms of user
    - **Impact**: Medium  
    - **Effort**: Low  
    - Adds basic interaction options but doesn't significantly improve the app.
+2. **Implement Light/Dark Mode Toggle**  
+   - **Impact**: Medium  
+   - **Effort**: Low  
+   - Provides a simple UX improvement with minimal impact on core features.
